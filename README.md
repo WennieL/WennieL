@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <p align="center">
   <img src="https://github.com/WennieL/WennieL/blob/main/name_img.png" width=50% height=50%>
