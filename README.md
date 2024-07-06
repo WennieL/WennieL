@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![image](https://github.com/WennieL/WennieL/blob/main/name_img.png)
 
 
 I'm currently studying at Holberton School in Australia to transition into a new career.
