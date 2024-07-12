@@ -5,9 +5,7 @@
 
 <p align="center"> I'm currently studying at Holberton School in Australia to transition into a new career.</p>
 
-<hr>
-
-<h3 align="left">Connect with me => <a href="https://linkedin.com/in/weni-liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weni-liu" height="30" width="40" /></a> </h3>
+<h3 align="center">Connect with me <a href="https://linkedin.com/in/weni-liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weni-liu" height="30" width="40" /></a> </h3>
 
 <hr>
 
