@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/WennieL/WennieL/blob/main/profile_img.png" width=100% height=60%>
+  <img src="https://github.com/WennieL/WennieL/blob/main/profile_img.png" width=100% height=50%>
 </p>
 
 <p align="center"> I'm currently studying at Holberton School in Australia to transition into a new career.</p>
